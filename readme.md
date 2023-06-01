@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (JUEBEJO DI BEJO)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,16 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : MI Proyecto(JUEBEJO DI MARINA)
 
 **Web:**  https://delahuergarojomarina.github.io/
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  (Marina de la Huerga Rojo
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto consiste en un juego inspirado en la estética hip hop. Es un juego de esquivar objetos mientras suenan canciones de rap.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
-
+**Estilo/género:**  Juego
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
