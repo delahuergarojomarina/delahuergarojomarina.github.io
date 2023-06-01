@@ -12,7 +12,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**  https://delahuergarojomarina.github.io/
 
-**Autor:**  (Marina de la Huerga Rojo
+**Autor:**  (Marina de la Huerga Rojo)
 
 **Resumen** : Este proyecto consiste en un juego inspirado en la estética hip hop. Es un juego de esquivar objetos mientras suenan canciones de rap.
 
